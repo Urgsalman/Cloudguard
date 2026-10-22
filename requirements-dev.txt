@@ -1,0 +1,10 @@
+
+-r requirements.txt
+
+# Tests
+pytest
+httpx
+
+# Qualité et sécurité du code
+ruff
+bandit

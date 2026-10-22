@@ -1,0 +1,16 @@
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+
+# Azure
+azure-identity
+azure-mgmt-resourcegraph
+
+# Dashboard SOC
+streamlit
+pandas
+plotly

@@ -37,3 +37,22 @@ terraform.tfvars
 # Build artifacts
 dist/
 build/
+
+data/audits.json
+
+# Local virtual environment and tool caches
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Local security scan outputs
+resultat_securite.txt
+resultat_securite_app.txt
+
+
+# Python compiled files
+*.py[cod]
+__pycache__/
+
+# Dashboard backup
+dashboard/app_backup.py
